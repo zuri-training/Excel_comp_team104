@@ -9,6 +9,7 @@ With proper research, we’ve been able to identify the pain point of data analy
 - [Interview Responses Link](https://docs.google.com/document/d/1vK0fXGQ17ykxoIKWej9_ctzUeOXb5cGw2_G6p5DHAfY/edit?usp=sharing)
 - [Research plan/Team Documentations Link](https://docs.google.com/document/d/153sUHdSwuAIJFslGJChC_YlnseE7-Dn8QBWIoeGl8cw/edit?pli=1#)
 - ***Testable Link ...Loading***
+
 ![Excel Sheets Comparison](https://trumpexcel.com/wp-content/uploads/2020/01/Two-files-that-need-to-be-compared.png)
 
 ### TOOLS:
