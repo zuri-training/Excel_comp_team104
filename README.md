@@ -20,9 +20,12 @@ With proper research, we’ve been able to identify the pain point of data analy
 - Google Docs and 
 - Excel
 
-### PROGRAMMING LANGUAGES: Python for codes & PHP for authentication
-### FRAMEWORK: React
-### LIBRARY: Pandas and Numpy
+### PROGRAMMING LANGUAGES: 
+Python for codes & PHP for authentication
+### FRAMEWORK: 
+React
+### LIBRARY: 
+Pandas and Numpy
 
 ### MAIN FEATURES:
 * Compare two or more Excel Files and check for errors.
